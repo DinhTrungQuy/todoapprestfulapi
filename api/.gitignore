@@ -1,0 +1,24 @@
+# Ignore build artifacts
+/build/
+
+# Ignore dependencies
+/pubspec.lock
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore generated files
+*.dart.js
+*.dart.js.map
+
+# Ignore logs
+*.log
+
+# Ignore user-specific files
+/.history/
+/.dart_tool/
+/.packages
+
+
+/node_modules
